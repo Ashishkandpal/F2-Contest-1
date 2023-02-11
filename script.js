@@ -66,5 +66,4 @@ function helperRemoveBelow50(item) {
 //here we are using the concat function inside array.from method because concat return new array
 function helperConcatenateArrays() {
   arr = Array.from(arr.concat(otherData));
-  arr.push();
 }
